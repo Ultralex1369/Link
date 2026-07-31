@@ -113,6 +113,7 @@ function loadMessages() {
 
 
             container.appendChild(wrapper);
+            container.scrollTop = container.scrollHeight;
 
         });
 
