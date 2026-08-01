@@ -2,8 +2,8 @@ import { sendMessage, listenForMessages } from "./firebase.js";
 
 
 const CODES = {
-    "032313": "A",
-    "123456": "B"
+    "1111": "A",
+    "2222": "B"
 };
 
 
